@@ -5,7 +5,7 @@
 *@email: admin@bugpk.com
 *@blog: www.jiuhunwl.cn
 *@Api: api.bugpk.com
-*@tip: 汽水音乐解析
+*@tip: 汽水音乐解析[页面版]
 */
 header('Content-type: text/json;charset=utf-8');
 $url = (isset($_GET['url'])) ? $_GET['url'] : '';
